@@ -1,13 +1,12 @@
 {
   "magisk": {
-    "version": "bpv1",
-    "versionCode": "25210",
-    "link": "https://github.com/HuskyDG/magisk-files/releases/download/fdac22ba-delta/app-release.apk",
+    "version": "magiskbp v1",
+    "versionCode": "00001",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@25.2/app-release.apk",
     "note": "https://raw.githubusercontent.com/littletakbest/magiskbpreg/main/bp.md"
-    "reglink": "https://v01dpanel.000webhostapp.com/reg.php"
   },
   "stub": {
     "versionCode": "21",
-    "link": "https://github.com/HuskyDG/magisk-files/releases/download/fdac22ba-delta/app-release.apk"
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@25.2/stub-release.apk"
   }
 }
