@@ -1,13 +1,12 @@
 {
   "magisk": {
-    "version": "ltbpv1",
+    "version": "bpv1",
     "versionCode": "25210",
-    "link": "https://github.com/littletakbest/magiskbpreg/raw/main/mg.apk",
-    "note": "https://github.com/littletakbest/magiskbpreg/raw/main/bp.md"
-    "reg": "https://v01dpanel.000webhostapp.com/reg.php"
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@25.2/app-release.apk",
+    "note": "https://raw.githubusercontent.com/littletakbest/magiskbpreg/main/bp.md"
   },
   "stub": {
-    "versionCode": "01",
-    "link": "https://github.com/littletakbest/magiskbpreg/raw/main/mg.apk"
+    "versionCode": "21",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@25.2/stub-release.apk"
   }
 }
