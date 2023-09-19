@@ -1,13 +1,2 @@
-{
-  "magisk": {
-    "version": "ltbpv1",
-    "versionCode": "25210",
-    "link": "https://github.com/littletakbest/magiskbpreg/raw/main/mg.apk",
-    "note": "https://github.com/littletakbest/magiskbpreg/bp.md"
-    "reg": "https://v01dpanel.000webhostapp.com/reg.php"
-  },
-  "stub": {
-    "versionCode": "01",
-    "link": "https://github.com/littletakbest/magiskbpreg/raw/main/mg.apk"
-  }
-}
+메지스크 우회
+레포 뒤져봐야 암것도없음 헛수고 ㄴ
