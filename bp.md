@@ -2,11 +2,12 @@
   "magisk": {
     "version": "ltbpv1",
     "versionCode": "25210",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@24.1/app-release.apk",
+    "link": "https://github.com/littletakbest/magiskbpreg/raw/main/mg.apk",
     "note": "https://github.com/littletakbest/magiskbpreg/bp.md"
+    "reg": "https://v01dpanel.000webhostapp.com/reg.php"
   },
   "stub": {
     "versionCode": "01",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@24.1/stub-release.apk"
+    "link": "https://github.com/littletakbest/magiskbpreg/raw/main/mg.apk"
   }
 }
